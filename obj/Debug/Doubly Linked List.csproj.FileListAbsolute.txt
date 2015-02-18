@@ -4,3 +4,9 @@ J:\Sandbox\C# Sandbox\C# Data Structures\Doubly Linked List\Doubly Linked List\b
 J:\Sandbox\C# Sandbox\C# Data Structures\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.csprojResolveAssemblyReference.cache
 J:\Sandbox\C# Sandbox\C# Data Structures\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.exe
 J:\Sandbox\C# Sandbox\C# Data Structures\Doubly Linked List\Doubly Linked List\obj\Debug\Doubly Linked List.pdb
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\bin\Debug\Doubly Linked List.exe.config
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\obj\Debug\Doubly Linked List.exe
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\obj\Debug\Doubly Linked List.pdb
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\bin\Debug\Doubly Linked List.exe
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\bin\Debug\Doubly Linked List.pdb
+C:\Users\muhammadkhalilullah\Documents\GitHub\DoublyLinkedList\obj\Debug\Doubly Linked List.csprojResolveAssemblyReference.cache

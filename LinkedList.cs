@@ -66,7 +66,7 @@ namespace Doubly_Linked_List
             {
                 retr = head.Data;
                 head = head.Next;
-
+                head.Prev = null;
             }
             else
             {

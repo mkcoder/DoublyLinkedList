@@ -27,7 +27,22 @@ namespace Doubly_Linked_List
             l.printList();
             Console.WriteLine(l.DeleteFromTail());
             l.printList();
-            l.printList();
+
+            /* 
+                program output: 
+                {1,2,3,4,5}
+                1
+                {2,3,4,5}
+                5
+                {2,3,4}
+                2
+                {3,4}
+                4
+                {3}
+                3
+                {}
+                Press any key to continue . . .
+             */
         }
     }
 }
